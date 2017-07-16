@@ -1,0 +1,1566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72bcc227-38f9-40ad-8011-a5bf7c4c0260" name="Default" comment="Title long words">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/app/Resources/images/background_00_black.jpg" afterPath="$PROJECT_DIR$/admin/app/Resources/images/background_00_black.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/app/Resources/images/background_00_white.jpg" afterPath="$PROJECT_DIR$/admin/app/Resources/images/background_00_white.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/app/Resources/images/background_01.jpg" afterPath="$PROJECT_DIR$/admin/app/Resources/images/background_01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/app/Resources/images/logo_grey.png" afterPath="$PROJECT_DIR$/admin/app/Resources/images/logo_grey.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/app/Resources/images/logo_vo.png" afterPath="$PROJECT_DIR$/admin/app/Resources/images/logo_vo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/app/Resources/images/no-image-available.png" afterPath="$PROJECT_DIR$/admin/app/Resources/images/no-image-available.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/.gitignore" afterPath="$PROJECT_DIR$/admin/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/app/Resources/css/login.css" afterPath="$PROJECT_DIR$/admin/app/Resources/css/login.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/app/Resources/css/main.css" afterPath="$PROJECT_DIR$/admin/app/Resources/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/app/Resources/js/main.js" afterPath="$PROJECT_DIR$/admin/app/Resources/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/app/Resources/translations/messages.en.yml" afterPath="$PROJECT_DIR$/admin/app/Resources/translations/messages.en.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/app/Resources/views/error/ingredient_delete.html.twig" afterPath="$PROJECT_DIR$/admin/app/Resources/views/error/ingredient_delete.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/app/SymfonyRequirements.php" afterPath="$PROJECT_DIR$/admin/app/SymfonyRequirements.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/app/config/fos_oauth_server.yml" afterPath="$PROJECT_DIR$/admin/app/config/fos_oauth_server.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/app/config/liip_imagine.yml" afterPath="$PROJECT_DIR$/admin/app/config/liip_imagine.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/app/config/services/forms.yml" afterPath="$PROJECT_DIR$/admin/app/config/services/forms.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/composer.json.dev" afterPath="$PROJECT_DIR$/admin/composer.json.dev" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/gulpfile.js" afterPath="$PROJECT_DIR$/admin/gulpfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/package.json" afterPath="$PROJECT_DIR$/admin/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/CountryAdmin.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/CountryAdmin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/CourseTypeAdmin.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/CourseTypeAdmin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/ImageAdmin.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/ImageAdmin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/IngredientAdmin.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/IngredientAdmin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/IngredientImageAdmin.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/IngredientImageAdmin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/IngredientMeasurementAdmin.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/IngredientMeasurementAdmin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/MealTypeAdmin.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/MealTypeAdmin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/PostCommentAdmin.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/PostCommentAdmin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/PostCommentReportAdmin.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/PostCommentReportAdmin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/PostImageAdmin.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/PostImageAdmin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/PostReportAdmin.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/PostReportAdmin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/PrivacyAdmin.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/PrivacyAdmin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/RecipeAdmin.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/RecipeAdmin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/RecipeIngredientRelationAdmin.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/RecipeIngredientRelationAdmin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/RecipeNoteAdmin.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/RecipeNoteAdmin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/RecipeStepAdmin.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/RecipeStepAdmin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/RecipeStepImageAdmin.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/RecipeStepImageAdmin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/RecipeStepVideoAdmin.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/RecipeStepVideoAdmin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/RecipeTagAdmin.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/RecipeTagAdmin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/RecipeVideoAdmin.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/RecipeVideoAdmin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/TranslationAdmin.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/TranslationAdmin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/UserAdmin.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/UserAdmin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/UserImageAdmin.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/Admin/UserImageAdmin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/Controller/IngredientAdminController.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/Controller/IngredientAdminController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/Controller/PostController.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/Controller/PostController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/Controller/RecipeController.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/Controller/RecipeController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/DataFixtures/ORM/LoadConfigs.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/DataFixtures/ORM/LoadConfigs.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/DataFixtures/ORM/LoadCountryData.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/DataFixtures/ORM/LoadCountryData.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/DataFixtures/ORM/LoadGroupsData.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/DataFixtures/ORM/LoadGroupsData.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/DataFixtures/ORM/LoadIngredientData.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/DataFixtures/ORM/LoadIngredientData.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/DataFixtures/ORM/LoadIngredientMeasurementData.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/DataFixtures/ORM/LoadIngredientMeasurementData.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/DataFixtures/ORM/LoadMealTypeData.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/DataFixtures/ORM/LoadMealTypeData.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/DataFixtures/ORM/LoadPostRankingWeights.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/DataFixtures/ORM/LoadPostRankingWeights.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/DataFixtures/ORM/LoadRecipeTypeData.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/DataFixtures/ORM/LoadRecipeTypeData.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/Form/CommentLinkType.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/Form/CommentLinkType.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/Form/ImageViewType.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/Form/ImageViewType.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/Form/LinkType.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/Form/LinkType.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/Form/ReadonlyDateViewType.php" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/Form/ReadonlyDateViewType.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/Resources/views/CRUD/base_edit.html.twig" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/Resources/views/CRUD/base_edit.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/src/AdminBundle/Resources/views/CRUD/base_edit_form.html.twig" afterPath="$PROJECT_DIR$/admin/src/AdminBundle/Resources/views/CRUD/base_edit_form.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/web/config.php" afterPath="$PROJECT_DIR$/admin/web/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/.gitignore" afterPath="$PROJECT_DIR$/common/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/composer.json" afterPath="$PROJECT_DIR$/common/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/composer.lock" afterPath="$PROJECT_DIR$/common/composer.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/DependencyInjection/VOCookmarksCommonExtension.php" afterPath="$PROJECT_DIR$/common/src/DependencyInjection/VOCookmarksCommonExtension.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/AccessToken.php" afterPath="$PROJECT_DIR$/common/src/Entity/AccessToken.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/AuthCode.php" afterPath="$PROJECT_DIR$/common/src/Entity/AuthCode.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/Config.php" afterPath="$PROJECT_DIR$/common/src/Entity/Config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/ConfigRepository.php" afterPath="$PROJECT_DIR$/common/src/Entity/ConfigRepository.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/Contact.php" afterPath="$PROJECT_DIR$/common/src/Entity/Contact.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/Country.php" afterPath="$PROJECT_DIR$/common/src/Entity/Country.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/CountryRepository.php" afterPath="$PROJECT_DIR$/common/src/Entity/CountryRepository.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/CourseType.php" afterPath="$PROJECT_DIR$/common/src/Entity/CourseType.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/CourseTypeRepository.php" afterPath="$PROJECT_DIR$/common/src/Entity/CourseTypeRepository.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/EditableTrait.php" afterPath="$PROJECT_DIR$/common/src/Entity/EditableTrait.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/FollowRequest.php" afterPath="$PROJECT_DIR$/common/src/Entity/FollowRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/Group.php" afterPath="$PROJECT_DIR$/common/src/Entity/Group.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/Image.php" afterPath="$PROJECT_DIR$/common/src/Entity/Image.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/ImageMimeType.php" afterPath="$PROJECT_DIR$/common/src/Entity/ImageMimeType.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/Ingredient.php" afterPath="$PROJECT_DIR$/common/src/Entity/Ingredient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/IngredientMeasurement.php" afterPath="$PROJECT_DIR$/common/src/Entity/IngredientMeasurement.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/IngredientRepository.php" afterPath="$PROJECT_DIR$/common/src/Entity/IngredientRepository.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/Mask.php" afterPath="$PROJECT_DIR$/common/src/Entity/Mask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/MealType.php" afterPath="$PROJECT_DIR$/common/src/Entity/MealType.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/MealTypeRepository.php" afterPath="$PROJECT_DIR$/common/src/Entity/MealTypeRepository.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/Position.php" afterPath="$PROJECT_DIR$/common/src/Entity/Position.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/Post.php" afterPath="$PROJECT_DIR$/common/src/Entity/Post.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/PostComment.php" afterPath="$PROJECT_DIR$/common/src/Entity/PostComment.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/PostCommentReport.php" afterPath="$PROJECT_DIR$/common/src/Entity/PostCommentReport.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/PostCommentReportRepository.php" afterPath="$PROJECT_DIR$/common/src/Entity/PostCommentReportRepository.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/PostCommentRepository.php" afterPath="$PROJECT_DIR$/common/src/Entity/PostCommentRepository.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/PostCounter.php" afterPath="$PROJECT_DIR$/common/src/Entity/PostCounter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/PostRankingWeight.php" afterPath="$PROJECT_DIR$/common/src/Entity/PostRankingWeight.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/PostReport.php" afterPath="$PROJECT_DIR$/common/src/Entity/PostReport.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/PostReportRepository.php" afterPath="$PROJECT_DIR$/common/src/Entity/PostReportRepository.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/PostRepository.php" afterPath="$PROJECT_DIR$/common/src/Entity/PostRepository.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/Privacy.php" afterPath="$PROJECT_DIR$/common/src/Entity/Privacy.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/Product.php" afterPath="$PROJECT_DIR$/common/src/Entity/Product.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/Recipe.php" afterPath="$PROJECT_DIR$/common/src/Entity/Recipe.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/RecipeDifficulty.php" afterPath="$PROJECT_DIR$/common/src/Entity/RecipeDifficulty.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/RecipeDifficultyRepository.php" afterPath="$PROJECT_DIR$/common/src/Entity/RecipeDifficultyRepository.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/RecipeHighlight.php" afterPath="$PROJECT_DIR$/common/src/Entity/RecipeHighlight.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/RecipeHighlightRepository.php" afterPath="$PROJECT_DIR$/common/src/Entity/RecipeHighlightRepository.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/RecipeIngredientRelation.php" afterPath="$PROJECT_DIR$/common/src/Entity/RecipeIngredientRelation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/RecipeIngredientRelationRepository.php" afterPath="$PROJECT_DIR$/common/src/Entity/RecipeIngredientRelationRepository.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/RecipeNationality.php" afterPath="$PROJECT_DIR$/common/src/Entity/RecipeNationality.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/RecipeNationalityRepository.php" afterPath="$PROJECT_DIR$/common/src/Entity/RecipeNationalityRepository.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/RecipeNote.php" afterPath="$PROJECT_DIR$/common/src/Entity/RecipeNote.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/RecipeRepository.php" afterPath="$PROJECT_DIR$/common/src/Entity/RecipeRepository.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/RecipeStep.php" afterPath="$PROJECT_DIR$/common/src/Entity/RecipeStep.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/RecipeTag.php" afterPath="$PROJECT_DIR$/common/src/Entity/RecipeTag.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/RecipeTagRepository.php" afterPath="$PROJECT_DIR$/common/src/Entity/RecipeTagRepository.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/RecipeUserRatingRelation.php" afterPath="$PROJECT_DIR$/common/src/Entity/RecipeUserRatingRelation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/RecipeUserRatingRelationRepository.php" afterPath="$PROJECT_DIR$/common/src/Entity/RecipeUserRatingRelationRepository.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/RefreshToken.php" afterPath="$PROJECT_DIR$/common/src/Entity/RefreshToken.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/Translation.php" afterPath="$PROJECT_DIR$/common/src/Entity/Translation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/TranslationRepository.php" afterPath="$PROJECT_DIR$/common/src/Entity/TranslationRepository.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/User.php" afterPath="$PROJECT_DIR$/common/src/Entity/User.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/UserRepository.php" afterPath="$PROJECT_DIR$/common/src/Entity/UserRepository.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Entity/Video.php" afterPath="$PROJECT_DIR$/common/src/Entity/Video.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/EventListener/ConfigurationListener.php" afterPath="$PROJECT_DIR$/common/src/EventListener/ConfigurationListener.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/EventListener/RecipeHighlightListener.php" afterPath="$PROJECT_DIR$/common/src/EventListener/RecipeHighlightListener.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Exception/RecipeHighlightUpdateNotAuthorizedException.php" afterPath="$PROJECT_DIR$/common/src/Exception/RecipeHighlightUpdateNotAuthorizedException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Helper/ConfigHelper.php" afterPath="$PROJECT_DIR$/common/src/Helper/ConfigHelper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Helper/ImageHelper.php" afterPath="$PROJECT_DIR$/common/src/Helper/ImageHelper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Helper/UserHelper.php" afterPath="$PROJECT_DIR$/common/src/Helper/UserHelper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/Resources/config/services.yml" afterPath="$PROJECT_DIR$/common/src/Resources/config/services.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/src/VOCookmarksCommonBundle.php" afterPath="$PROJECT_DIR$/common/src/VOCookmarksCommonBundle.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docker/.gitignore" afterPath="$PROJECT_DIR$/docker/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docker/README.md" afterPath="$PROJECT_DIR$/docker/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docker/docker-compose.yml" afterPath="$PROJECT_DIR$/docker/docker-compose.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docker/docker_config/admin_http/Dockerfile" afterPath="$PROJECT_DIR$/docker/docker_config/admin_http/Dockerfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docker/docker_config/admin_http/cookmarks_admin.conf" afterPath="$PROJECT_DIR$/docker/docker_config/admin_http/cookmarks_admin.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docker/docker_config/admin_php/Dockerfile" afterPath="$PROJECT_DIR$/docker/docker_config/admin_php/Dockerfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docker/docker_config/admin_php/config/php.ini" afterPath="$PROJECT_DIR$/docker/docker_config/admin_php/config/php.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docker/docker_config/admin_php/deploy-key/id_rsa" afterPath="$PROJECT_DIR$/docker/docker_config/admin_php/deploy-key/id_rsa" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docker/docker_config/admin_php/deploy-key/id_rsa.pub" afterPath="$PROJECT_DIR$/docker/docker_config/admin_php/deploy-key/id_rsa.pub" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docker/docker_config/admin_php/run.sh" afterPath="$PROJECT_DIR$/docker/docker_config/admin_php/run.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docker/docker_config/api_http/Dockerfile" afterPath="$PROJECT_DIR$/docker/docker_config/api_http/Dockerfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docker/docker_config/api_http/cookmarks_api.conf" afterPath="$PROJECT_DIR$/docker/docker_config/api_http/cookmarks_api.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docker/docker_config/api_php/Dockerfile" afterPath="$PROJECT_DIR$/docker/docker_config/api_php/Dockerfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docker/docker_config/api_php/config/php.ini" afterPath="$PROJECT_DIR$/docker/docker_config/api_php/config/php.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docker/docker_config/api_php/deploy-key/id_rsa" afterPath="$PROJECT_DIR$/docker/docker_config/api_php/deploy-key/id_rsa" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docker/docker_config/api_php/deploy-key/id_rsa.pub" afterPath="$PROJECT_DIR$/docker/docker_config/api_php/deploy-key/id_rsa.pub" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docker/docker_config/api_php/run.sh" afterPath="$PROJECT_DIR$/docker/docker_config/api_php/run.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docker/docker_config/frontend_php/Dockerfile" afterPath="$PROJECT_DIR$/docker/docker_config/frontend_php/Dockerfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docker/docker_config/frontend_v2_http/Dockerfile" afterPath="$PROJECT_DIR$/docker/docker_config/frontend_v2_http/Dockerfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docker/docker_config/frontend_v2_http/cookmarks_frontend.conf" afterPath="$PROJECT_DIR$/docker/docker_config/frontend_v2_http/cookmarks_frontend.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docker/docker_config/frontend_v2_php/Dockerfile" afterPath="$PROJECT_DIR$/docker/docker_config/frontend_v2_php/Dockerfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docker/docker_config/frontend_v2_php/config/php.ini" afterPath="$PROJECT_DIR$/docker/docker_config/frontend_v2_php/config/php.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docker/docker_config/frontend_v2_php/deploy-key/id_rsa" afterPath="$PROJECT_DIR$/docker/docker_config/frontend_v2_php/deploy-key/id_rsa" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docker/docker_config/frontend_v2_php/deploy-key/id_rsa.pub" afterPath="$PROJECT_DIR$/docker/docker_config/frontend_v2_php/deploy-key/id_rsa.pub" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docker/docker_config/frontend_v2_php/run.sh" afterPath="$PROJECT_DIR$/docker/docker_config/frontend_v2_php/run.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docker/docker_config/load_balancer/Dockerfile" afterPath="$PROJECT_DIR$/docker/docker_config/load_balancer/Dockerfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docker/docker_config/load_balancer/haproxy.cfg" afterPath="$PROJECT_DIR$/docker/docker_config/load_balancer/haproxy.cfg" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="base.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/views/account/base.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="49" lean-forward="false" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/frontend-v2/src/AppBundle/Controller/UserController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="377" column="36" lean-forward="false" selection-start-line="377" selection-start-column="36" selection-end-line="377" selection-end-column="36" />
+              <folding>
+                <element signature="e#297#325#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/views/account/login.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="homepage.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/views/account/homepage.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mood</find>
+      <find>&quot;mood</find>
+      <find>&quot;&quot;mood</find>
+      <find>a</find>
+      <find>au</find>
+      <find>aux</find>
+      <find>xxxx</find>
+      <find>xxx</find>
+      <find>foll</find>
+      <find>follo</find>
+      <find>follower</find>
+      <find>followers</find>
+      <find>followers-man</find>
+      <find>followers-mana</find>
+      <find>followers-managem</find>
+      <find>followers-manageme</find>
+      <find>followers-managemen</find>
+      <find>followers-management</find>
+      <find>followers-management/</find>
+      <find>followers-management/_</find>
+      <find>followers-management/_s</find>
+      <find>followers-management/_sc</find>
+      <find>followers-management/_scr</find>
+      <find>followers-management/_scri</find>
+      <find>followers-management/_scrip</find>
+      <find>followers-management/_script</find>
+      <find>followers-management/_script.</find>
+      <find>followers-management/_script.j</find>
+      <find>followers-management/_script.js</find>
+      <find>followers-pending/_script.js</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/frontend-v2/src</dir>
+      <dir>$PROJECT_DIR$/frontend-v2/app/Resources/assets/scss</dir>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/frontend-v2/app/Resources/views/post/partials</dir>
+      <dir>$PROJECT_DIR$/api</dir>
+      <dir>$PROJECT_DIR$/frontend-v2/src/AppBundle/Controller</dir>
+      <dir>$PROJECT_DIR$/frontend-v2/app/Resources/views</dir>
+      <dir>$PROJECT_DIR$/frontend-v2/app/Resources/assets/js</dir>
+      <dir>$PROJECT_DIR$/frontend-v2</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend-v2" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/frontend-v2/app/Resources/assets/scss/pages/public-recipes/_general.scss" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/Resources/assets/scss/pages/recipes/_general.scss" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/Resources/assets/scss/pages/user-profile/_general.scss" />
+        <option value="$PROJECT_DIR$/api/app/config/parameters.yml" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/Resources/views/feed/partials/_recipe.html.twig" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/Resources/assets/js/partials/facebook/_script.js" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/Resources/assets/vendor/bower_components/jquery/src/event.js" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/Resources/assets/vendor/bower_components/jquery/dist/jquery.slim.js" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/Resources/assets/vendor/bower_components/jquery/dist/jquery.js" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/Resources/assets/js/partials/carousel/_script.js" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/Resources/views/feed/partials/_post.html.twig" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/Resources/views/user-profile/partials/_post.html.twig" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/Resources/views/user-profile/partials/_recipe.html.twig" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/Resources/translations/messages.en.yml" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/Resources/translations/messages.pt.yml" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/Resources/views/homepage/partials/_last_section.html.twig" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/Resources/assets/scss/pages/homepage/_general.scss" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/Resources/assets/js/partials/translator/dictionary.pt.js" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/Resources/assets/js/partials/translator/dictionary.en.js" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/Resources/views/recipe/index.html.twig" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/Resources/assets/js/partials/post_actions/_script.js" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/Resources/views/post/partials/_post.html.twig" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/Resources/views/account/partials/_signin.html.twig" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/config/config.yml" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/config/parameters.yml" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/config/parameters.yml.dist" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/Resources/views/user-profile/partials/_followers_management.html.twig" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/Resources/views/user-profile/partials/_followers_pending.html.twig" />
+        <option value="$PROJECT_DIR$/frontend-v2/src/AppBundle/Controller/IndexController.php" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/Resources/views/feed/index.html.twig" />
+        <option value="$PROJECT_DIR$/frontend-v2/src/AppBundle/Security/User/ApiUserProvider.php" />
+        <option value="$PROJECT_DIR$/frontend-v2/src/AppBundle/Security/User/ApiUser.php" />
+        <option value="$PROJECT_DIR$/api/app/AppKernel.php" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/Resources/assets/scss/pages/feed/_general.scss" />
+        <option value="$PROJECT_DIR$/frontend-v2/src/AppBundle/Security/User/ApiUserResponse.php" />
+        <option value="$PROJECT_DIR$/frontend-v2/src/AppBundle/Controller/PostController.php" />
+        <option value="$PROJECT_DIR$/frontend-v2/src/AppBundle/Controller/FeedController.php" />
+        <option value="$PROJECT_DIR$/frontend-v2/src/AppBundle/Controller/RecipeController.php" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/Resources/views/user-profile/update.html.twig" />
+        <option value="$PROJECT_DIR$/frontend-v2/src/AppBundle/Controller/MoodsController.php" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/Resources/assets/js/partials/followers-pending/_script.js" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/Resources/views/base.html.twig" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/Resources/assets/js/pages/feed/feed.js" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/Resources/assets/scss/global/_general.scss" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/Resources/views/layout/_header.html.twig" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/Resources/assets/js/partials/followers-management/_script.js" />
+        <option value="$PROJECT_DIR$/frontend-v2/src/AppBundle/Model/DTO/UserDTO.php" />
+        <option value="$PROJECT_DIR$/frontend-v2/src/AppBundle/Controller/UserController.php" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/Resources/views/homepage/index.html.twig" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/Resources/views/account/base.html.twig" />
+        <option value="$PROJECT_DIR$/frontend-v2/app/Resources/assets/js/app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/admin/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="64" />
+    <option name="y" value="-11" />
+    <option name="width" value="1857" />
+    <option name="height" value="1092" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.jetbrains.php.config.library.PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend-v2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend-v2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend-v2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend-v2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Model" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DTO" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend-v2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controller" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend-v2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend-v2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend-v2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="homepage" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend-v2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="account" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend-v2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend-v2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend-v2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scss" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend-v2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scss" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="global" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend-v2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend-v2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partials" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend-v2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partials" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="post" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend-v2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partials" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="followers-management" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend-v2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend-v2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user-profile" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend-v2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="moods" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookmarks" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ApiBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Symfony2.SettingsForm" />
+    <property name="nodejs_interpreter_path" value="/usr/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/frontend-v2/app/Resources/assets/images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72bcc227-38f9-40ad-8011-a5bf7c4c0260" name="Default" comment="" />
+      <created>1493819944123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1493819944123</updated>
+      <workItem from="1493819950666" duration="979000" />
+      <workItem from="1493821023182" duration="1637000" />
+      <workItem from="1494838136737" duration="19000" />
+      <workItem from="1494838186917" duration="93000" />
+      <workItem from="1494838302687" duration="758000" />
+      <workItem from="1494923959021" duration="3123000" />
+      <workItem from="1495795085417" duration="4710000" />
+      <workItem from="1496062046283" duration="6864000" />
+      <workItem from="1496230806958" duration="9380000" />
+      <workItem from="1496657280758" duration="17446000" />
+      <workItem from="1496842139236" duration="1863000" />
+      <workItem from="1496996843173" duration="1235000" />
+      <workItem from="1497259624993" duration="3134000" />
+      <workItem from="1497630353564" duration="4740000" />
+      <workItem from="1497889775099" duration="16839000" />
+      <workItem from="1498049825901" duration="1188000" />
+      <workItem from="1498209197262" duration="4361000" />
+      <workItem from="1498570623569" duration="29000" />
+      <workItem from="1498659655121" duration="7420000" />
+      <workItem from="1498729819132" duration="2344000" />
+      <workItem from="1498814091247" duration="9048000" />
+      <workItem from="1498828919196" duration="8290000" />
+      <workItem from="1499073400607" duration="25999000" />
+      <workItem from="1499163023527" duration="18962000" />
+      <workItem from="1499416385840" duration="18875000" />
+      <workItem from="1499600447897" duration="22257000" />
+      <workItem from="1499849027533" duration="397000" />
+    </task>
+    <task id="LOCAL-00001" summary="Title long words">
+      <created>1498830302173</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1498830302173</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="191990000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25280327" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Title long words" />
+    <option name="LAST_COMMIT_MESSAGE" value="Title long words" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/frontend-v2/src/AppBundle/Form/CountryType.php</url>
+          <line>25</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/api/app/AppKernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="24" column="55" lean-forward="false" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/assets/js/partials/loader/_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/assets/js/partials/header/_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/assets/js/pages/my-chefs/my-chefs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/assets/js/pages/my-recipes/my-recipes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/assets/js/pages/user-profile-update/user-profile-update.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-646">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/assets/js/partials/form-authentication/_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/assets/js/partials/form/_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-46">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/assets/js/partials/facebook/_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/assets/js/pages/homepage/homepage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/assets/js/partials/comments/_comment_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-286">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/assets/js/partials/post/edit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1200">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/assets/scss/pages/feed/_general.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/ApiBundle/Controller/V1/UsersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="241" column="21" lean-forward="true" selection-start-line="241" selection-start-column="21" selection-end-line="241" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/src/AppBundle/Response/AjaxResponseService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="27" column="20" lean-forward="false" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/src/AppBundle/Controller/BaseController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="37" column="7" lean-forward="true" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/src/AppBundle/Controller/RecipeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3640">
+          <caret line="209" column="43" lean-forward="false" selection-start-line="209" selection-start-column="16" selection-end-line="209" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/views/user-profile/update.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="140" column="10" lean-forward="false" selection-start-line="140" selection-start-column="10" selection-end-line="140" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/views/user-profile/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-129">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/views/user-profile/partials/_followers_pending.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="71" lean-forward="false" selection-start-line="7" selection-start-column="71" selection-end-line="7" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/assets/js/pages/moods/moods.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/src/AppBundle/Model/DTO/FollowerRequestDTO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="21" column="18" lean-forward="false" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/views/user-profile/partials/_followers_management.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/src/AppBundle/Security/User/ApiUserResponse.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5137">
+          <caret line="19" column="34" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/src/AppBundle/Controller/MoodsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="70" column="5" lean-forward="false" selection-start-line="69" selection-start-column="40" selection-end-line="70" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/assets/js/pages/user-profile/user-profile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-774">
+          <caret line="47" column="37" lean-forward="false" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5008">
+          <caret line="33" column="26" lean-forward="true" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/src/AppBundle/Controller/PostController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="151" column="21" lean-forward="false" selection-start-line="151" selection-start-column="21" selection-end-line="151" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/assets/js/partials/followers-pending/_script.js" />
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/assets/js/partials/post/create.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-360">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/assets/js/pages/feed/feed.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/assets/scss/global/_general.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/views/layout/_header.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="80" column="179" lean-forward="false" selection-start-line="80" selection-start-column="179" selection-end-line="80" selection-end-column="179" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/assets/js/partials/followers-management/_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="75" column="20" lean-forward="false" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/src/AppBundle/Model/DTO/UserDTO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="409" column="21" lean-forward="false" selection-start-line="409" selection-start-column="21" selection-end-line="409" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/src/AppBundle/Controller/FeedController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-600">
+          <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/src/AppBundle/Controller/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/views/homepage/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1180">
+          <caret line="62" column="74" lean-forward="false" selection-start-line="62" selection-start-column="74" selection-end-line="62" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/assets/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="172" column="37" lean-forward="false" selection-start-line="172" selection-start-column="37" selection-end-line="172" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/views/account/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="49" lean-forward="false" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/views/account/login.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/views/account/reset_password.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/views/account/reset_password_success.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/views/account/signup.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/views/account/signup_confirmed.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/views/account/signup_success.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/views/account/change_password.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/views/account/change_password_success.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/app/Resources/views/account/homepage.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-v2/src/AppBundle/Controller/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="377" column="36" lean-forward="false" selection-start-line="377" selection-start-column="36" selection-end-line="377" selection-end-column="36" />
+          <folding>
+            <element signature="e#297#325#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
